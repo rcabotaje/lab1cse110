@@ -22,7 +22,7 @@ System.out,println(bruh); //idk what to put as code
 ```
 This is built on GitHub Pages here is the [Main Repository](https://github.com/rcabotaje/lab1cse110)
 
-[Here](README.md) is the READme.md file for the Repo
+[Here](README.md) is the READme.md file for the Repo (it has like nothing in it)
 
 
-Back to Top: [To the Top](Me-as-a-Programmer)
+Back to Top: [To the Top](#Me-as-a-Programmer)
