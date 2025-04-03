@@ -5,10 +5,16 @@ Hi my name is <ins> Rommel</ins> and **I am a 3rd Year _Computer Engineering_ st
 
 My favorite Programming language is ~~C~~ Java.
 
-Outside of academic related thing I work at a Grocery Store in Point Loma and I like to go bowling and play tennis with my friends. :D
+Outside of academic related thing I work at a Gas Station's Mini-Mart in Point Loma and I like to go bowling and play tennis with my friends. :D
+
+Here is a picture of what bowling essentially is:
+
+![Image](bowling.jpeg)
 
 A quote I like is from my dad:
-> dont be lazy doing something that takes 30 minutes
+> dont be lazy to do something that takes 30 minutes
+
+The quote came because I didnt wash the dishes. 
 
 Here is a W code:
 ```
@@ -19,4 +25,4 @@ This is built on GitHub Pages here is the [Main Repository](https://github.com/r
 [Here](README.md) is the READme.md file for the Repo
 
 
-Back to the top: [To the Top](Me-as-a-Programmer)
+Back to Top: [To the Top](Me-as-a-Programmer)
