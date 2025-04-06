@@ -60,7 +60,7 @@ Here is a list of all the lower div CE CSE/ECE classes I have completed and yet 
 - [ ] ECE 45
 - [ ] ECE 65 
 
-Back to Top: [To the Top](#Me-as-a-Programmer)
+Back to Top: [To the Top](#me-as-a-programmer)
 
 
 # Example headings
