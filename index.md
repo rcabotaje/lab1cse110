@@ -22,7 +22,7 @@ The quote came because I didnt wash the dishes.
 
 Here is an example of a print statement in Java:
 ```
-System.out.println("bruh"); //idk what to put as code
+System.out.println("bruh");
 ```
 This is built on GitHub Pages here is the [Main Repository](https://github.com/rcabotaje/lab1cse110)
 
